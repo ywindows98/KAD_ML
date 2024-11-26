@@ -14,6 +14,8 @@ shrooms = pd.read_csv('dataset/sample.csv')
 shrooms_attributes = shrooms.copy()
 shrooms_attributes = shrooms_attributes.drop('class', axis=1)
 
+shrooms_classes = shrooms['class']
+
 combinations = get_combinations(dataframe=shrooms_attributes, length=3)
 print(f"Generated {len(combinations)} combinations")
 print(combinations)
