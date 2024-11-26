@@ -1,301 +1,301 @@
-,Company,TypeName,Inches,ScreenResolution,CPU_Company,CPU_Frequency (GHz),RAM (GB),Memory,GPU_Company,Price (Euro)
-433,Lenovo,Workstation,14-16,IPS Panel 4K Ultra HD 3840x2160,Intel,2.4-3.0,8-16,512GB SSD,Nvidia,2100-3000
-909,LG,Ultrabook,12-14,IPS Panel Full HD / Touchscreen 1920x1080,Intel,2.4-3.0,4-8,512GB SSD,Intel,1400-2100
-356,Lenovo,Notebook,14-16,1366x768,Intel,0.8-1.6,2-4,1TB HDD,Intel,0-700
-402,Lenovo,Notebook,14-16,IPS Panel Full HD 1920x1080,Intel,0.8-1.6,4-8,256GB SSD +  1TB HDD,AMD,700-1400
-1013,HP,Ultrabook,12-14,Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Intel,1400-2100
-905,LG,Ultrabook,14-16,IPS Panel Full HD / Touchscreen 1920x1080,Intel,2.4-3.0,8-16,512GB SSD,Intel,1400-2100
-651,Acer,Gaming,14-16,Full HD 1920x1080,Intel,2.4-3.0,4-8,1TB HDD,Nvidia,700-1400
-304,Asus,Gaming,14-16,Full HD 1920x1080,Intel,2.4-3.0,4-8,128GB SSD +  1TB HDD,Nvidia,700-1400
-698,Toshiba,Ultrabook,12-14,Full HD / Touchscreen 1920x1080,Intel,2.4-3.0,8-16,512GB SSD,Intel,1400-2100
-451,Dell,Workstation,14-16,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,8-16,256GB SSD,Nvidia,1400-2100
-528,Dell,Notebook,14-16,Full HD 1920x1080,Intel,2.4-3.0,2-4,500GB HDD,AMD,0-700
-1110,HP,Notebook,12-14,Quad HD+ / Touchscreen 3200x1800,Intel,0.8-1.6,4-8,256GB SSD,Intel,1400-2100
-54,Acer,Notebook,14-16,1366x768,Intel,1.6-2.4,2-4,1TB HDD,Intel,0-700
-912,Lenovo,Notebook,14-16,Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Nvidia,700-1400
-777,Acer,Notebook,12-14,IPS Panel Full HD 1920x1080,Intel,1.6-2.4,2-4,128GB SSD,Intel,0-700
-926,Lenovo,Ultrabook,12-14,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Intel,1400-2100
-400,Lenovo,Notebook,14-16,1366x768,Intel,0.8-1.6,2-4,1TB HDD,Intel,0-700
-1266,HP,Notebook,14-16,Full HD 1920x1080,AMD,2.4-3.0,4-8,1.0TB Hybrid,AMD,0-700
-534,Asus,Gaming,14-16,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,4-8,128GB SSD +  1TB HDD,Nvidia,1400-2100
-1067,Dell,2 in 1 Convertible,12-14,Full HD / Touchscreen 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Intel,700-1400
-1040,Lenovo,2 in 1 Convertible,14-16,IPS Panel Full HD / Touchscreen 1920x1080,Intel,2.4-3.0,2-4,256GB SSD,Intel,700-1400
-625,Lenovo,Notebook,14-16,Full HD 1920x1080,Intel,2.4-3.0,4-8,1TB HDD,Nvidia,700-1400
-7,Apple,Ultrabook,12-14,1440x900,Intel,1.6-2.4,4-8,256GB Flash Storage,Intel,700-1400
-821,Toshiba,Ultrabook,12-14,1366x768,Intel,2.4-3.0,2-4,128GB SSD,Intel,700-1400
-1118,Toshiba,Ultrabook,12-14,Full HD 1920x1080,Intel,2.4-3.0,8-16,512GB SSD,Intel,2100-3000
-794,Apple,Ultrabook,10-12,IPS Panel Retina Display 2304x1440,Intel,0.8-1.6,4-8,512GB Flash Storage,Intel,700-1400
-482,HP,Notebook,12-14,IPS Panel Full HD 1920x1080,Intel,0.8-1.6,2-4,128GB SSD,Intel,700-1400
-443,Lenovo,Notebook,14-16,Full HD 1920x1080,Intel,0.8-1.6,2-4,128GB SSD,Intel,0-700
-1172,Asus,Notebook,14-16,1366x768,Intel,0.8-1.6,2-4,500GB HDD,Intel,0-700
-885,HP,2 in 1 Convertible,12-14,Full HD / Touchscreen 1920x1080,Intel,2.4-3.0,2-4,256GB SSD,Intel,1400-2100
-115,HP,2 in 1 Convertible,12-14,IPS Panel Full HD / Touchscreen 1920x1080,Intel,0.8-1.6,4-8,256GB SSD,Intel,700-1400
-726,Dell,Notebook,14-16,Full HD 1920x1080,Intel,0.8-1.6,4-8,128GB SSD +  1TB HDD,AMD,700-1400
-878,Dell,Notebook,14-16,Full HD 1920x1080,Intel,2.4-3.0,2-4,128GB SSD +  1TB HDD,Nvidia,700-1400
-478,Dell,Notebook,14-16,Full HD 1920x1080,Intel,0.8-1.6,4-8,1TB HDD,AMD,0-700
-1243,Dell,2 in 1 Convertible,16-20,Full HD / Touchscreen 1920x1080,Intel,2.4-3.0,8-16,512GB SSD,Nvidia,1400-2100
-813,Dell,Notebook,14-16,Full HD 1920x1080,Intel,2.4-3.0,4-8,1TB HDD,Nvidia,700-1400
-429,Mediacom,2 in 1 Convertible,10-12,IPS Panel Full HD / Touchscreen 1920x1080,Intel,0.8-1.6,2-4,32GB SSD,Intel,0-700
-657,Dell,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.4,8-16,256GB SSD +  2TB HDD,AMD,700-1400
-989,Dell,Notebook,12-14,Full HD 1920x1080,Intel,2.4-3.0,4-8,128GB SSD,Intel,700-1400
-1069,Apple,Ultrabook,10-12,IPS Panel Retina Display 2304x1440,Intel,0.8-1.6,4-8,256GB Flash Storage,Intel,700-1400
-858,Dell,Notebook,12-14,Full HD / Touchscreen 1920x1080,Intel,1.6-2.4,4-8,1TB HDD,Intel,0-700
-854,Asus,Notebook,14-16,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Nvidia,700-1400
-931,HP,Ultrabook,12-14,Full HD 1920x1080,Intel,1.6-2.4,2-4,500GB HDD,Intel,1400-2100
-827,Dell,Notebook,12-14,1366x768,Intel,1.6-2.4,2-4,500GB HDD,Intel,0-700
-713,Asus,Notebook,12-14,Full HD 1920x1080,Intel,0.8-1.6,2-4,32GB Flash Storage,Intel,0-700
-78,Acer,Notebook,14-16,Full HD 1920x1080,Intel,2.4-3.0,2-4,1TB HDD,Nvidia,0-700
-750,Lenovo,Netbook,10-12,Touchscreen 1366x768,Intel,0.8-1.6,2-4,128GB SSD,Intel,0-700
-643,Asus,Gaming,14-16,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,4-8,1TB HDD,Nvidia,700-1400
-889,Lenovo,Notebook,16-20,1600x900,AMD,1.6-2.4,2-4,500GB HDD,AMD,0-700
-1253,Lenovo,Notebook,12-14,IPS Panel Full HD 1920x1080,Intel,1.6-2.4,4-8,256GB SSD,Intel,700-1400
-849,HP,Ultrabook,12-14,Full HD 1920x1080,Intel,2.4-3.0,4-8,512GB SSD,Intel,1400-2100
-130,Dell,Notebook,14-16,1366x768,Intel,2.4-3.0,4-8,1TB HDD,AMD,0-700
-952,Toshiba,Notebook,12-14,Full HD 1920x1080,Intel,1.6-2.4,4-8,256GB SSD,Intel,1400-2100
-812,Samsung,Ultrabook,12-14,Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Intel,1400-2100
-1045,HP,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.4,4-8,256GB SSD +  500GB HDD,Intel,2100-3000
-150,Dell,Gaming,14-16,Full HD 1920x1080,Intel,2.4-3.0,8-16,512GB SSD,Nvidia,700-1400
-43,Acer,Notebook,14-16,IPS Panel Full HD 1920x1080,Intel,0.8-1.6,2-4,256GB SSD,Intel,0-700
-870,Lenovo,Notebook,14-16,1366x768,Intel,2.4-3.0,2-4,500GB HDD,Intel,700-1400
-236,Acer,Notebook,14-16,1366x768,Intel,1.6-2.4,2-4,1TB HDD,Intel,0-700
-661,Lenovo,Notebook,14-16,1366x768,Intel,0.8-1.6,2-4,500GB HDD,Intel,0-700
-1079,HP,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.4,2-4,500GB HDD,Intel,700-1400
-1005,HP,Notebook,12-14,1366x768,Intel,1.6-2.4,2-4,256GB SSD,Intel,700-1400
-1256,Asus,Gaming,16-20,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,8-16,128GB SSD +  1TB HDD,Nvidia,1400-2100
-923,Toshiba,Notebook,14-16,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,8-16,256GB SSD,Nvidia,1400-2100
-439,Asus,Notebook,14-16,Full HD 1920x1080,Intel,2.4-3.0,2-4,256GB SSD,Intel,0-700
-706,Acer,2 in 1 Convertible,12-14,IPS Panel Full HD / Touchscreen 1920x1080,Intel,0.8-1.6,4-8,256GB SSD,Intel,700-1400
-1157,Lenovo,Ultrabook,12-14,Full HD 1920x1080,Intel,2.4-3.0,8-16,512GB SSD,Intel,2100-3000
-532,Asus,Notebook,14-16,IPS Panel 4K Ultra HD 3840x2160,Intel,2.4-3.0,4-8,256GB SSD +  1TB HDD,Nvidia,700-1400
-441,Dell,Notebook,14-16,Full HD 1920x1080,Intel,0.8-1.6,2-4,256GB SSD,AMD,700-1400
-552,Dell,Gaming,16-20,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,8-16,256GB SSD +  1TB HDD,Nvidia,2100-3000
-362,Lenovo,Notebook,16-20,1600x900,Intel,2.4-3.0,4-8,128GB SSD +  1TB HDD,Nvidia,700-1400
-814,Dell,Notebook,14-16,Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,AMD,700-1400
-11,HP,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.4,2-4,500GB HDD,Intel,0-700
-154,HP,Ultrabook,12-14,Full HD 1920x1080,Intel,2.4-3.0,2-4,256GB SSD,Intel,700-1400
-288,Lenovo,Gaming,14-16,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,8-16,256GB SSD +  1TB HDD,Nvidia,700-1400
-934,Toshiba,Notebook,12-14,IPS Panel Full HD 1920x1080,Intel,1.6-2.4,2-4,128GB SSD,Intel,700-1400
-480,Dell,Notebook,14-16,IPS Panel Full HD 1920x1080,Intel,1.6-2.4,4-8,512GB SSD,Nvidia,700-1400
-1160,Lenovo,Ultrabook,12-14,Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Intel,1400-2100
-458,Microsoft,Ultrabook,12-14,Touchscreen 2256x1504,Intel,2.4-3.0,4-8,256GB SSD,Intel,1400-2100
-839,Asus,Notebook,14-16,Full HD 1920x1080,Intel,2.4-3.0,4-8,128GB HDD,Intel,0-700
-1123,Dell,Notebook,14-16,1366x768,Intel,1.6-2.4,2-4,500GB HDD,Intel,0-700
-6,Apple,Ultrabook,14-16,IPS Panel Retina Display 2880x1800,Intel,1.6-2.4,8-16,256GB Flash Storage,Intel,2100-3000
-652,Dell,Ultrabook,12-14,Full HD 1920x1080,Intel,0.8-1.6,4-8,256GB SSD,Intel,1400-2100
-930,Lenovo,Notebook,14-16,1366x768,Intel,0.8-1.6,2-4,1TB HDD,Intel,0-700
-680,MSI,Gaming,14-16,Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Nvidia,700-1400
-803,Dell,Notebook,14-16,4K Ultra HD / Touchscreen 3840x2160,Intel,2.4-3.0,4-8,256GB SSD,Nvidia,1400-2100
-1024,Dell,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.4,4-8,500GB HDD,Intel,700-1400
-1061,Asus,Gaming,16-20,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,8-16,1TB HDD,Nvidia,700-1400
-743,Lenovo,2 in 1 Convertible,12-14,Full HD / Touchscreen 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Intel,700-1400
-792,Lenovo,2 in 1 Convertible,12-14,IPS Panel Full HD / Touchscreen 1920x1080,Intel,2.4-3.0,4-8,512GB SSD,Intel,1400-2100
-1006,HP,Notebook,12-14,Full HD 1920x1080,Intel,2.4-3.0,2-4,256GB SSD,Intel,700-1400
-1132,Asus,Notebook,12-14,1366x768,Intel,0.8-1.6,2-4,32GB Flash Storage,Intel,0-700
-140,Acer,Notebook,16-20,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,2-4,1TB HDD,Nvidia,0-700
-13,Dell,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.4,2-4,256GB SSD,AMD,0-700
-1139,HP,Ultrabook,14-16,Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Intel,2100-3000
-456,Dell,Notebook,16-20,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,4-8,1TB HDD,Nvidia,1400-2100
-1014,HP,Notebook,12-14,1366x768,Intel,1.6-2.4,2-4,500GB HDD,Intel,700-1400
-1027,HP,Notebook,12-14,1366x768,Intel,2.4-3.0,2-4,500GB HDD,Intel,700-1400
-280,Lenovo,Notebook,16-20,1600x900,Intel,2.4-3.0,4-8,128GB SSD +  1TB HDD,Nvidia,700-1400
-59,Asus,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.4,2-4,256GB SSD,Intel,0-700
-2,HP,Notebook,14-16,Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Intel,0-700
-1240,Lenovo,Notebook,14-16,Full HD 1920x1080,AMD,3.0-4.0,4-8,256GB SSD,AMD,0-700
-375,HP,Notebook,14-16,Full HD 1920x1080,AMD,2.4-3.0,2-4,256GB SSD,AMD,0-700
-817,HP,Netbook,10-12,1366x768,Intel,0.8-1.6,2-4,16GB Flash Storage,Intel,0-700
-542,HP,Ultrabook,12-14,IPS Panel Quad HD+ 3200x1800,Intel,2.4-3.0,4-8,256GB SSD,Intel,700-1400
-243,Dell,Gaming,14-16,Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Nvidia,700-1400
-90,Asus,Gaming,14-16,Full HD 1920x1080,AMD,2.4-3.0,4-8,1TB HDD,AMD,0-700
-569,Lenovo,Notebook,12-14,1366x768,Intel,2.4-3.0,2-4,500GB HDD,Intel,700-1400
-594,Lenovo,Notebook,16-20,Full HD 1920x1080,Intel,1.6-2.4,2-4,500GB HDD,Intel,0-700
-818,Dell,Gaming,16-20,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,8-16,128GB SSD +  1TB HDD,Nvidia,2100-3000
-709,HP,Notebook,16-20,IPS Panel Full HD 1920x1080,AMD,2.4-3.0,4-8,2TB HDD,AMD,0-700
-660,Dell,Notebook,12-14,Full HD 1920x1080,Intel,1.6-2.4,4-8,256GB SSD,Intel,700-1400
-406,Toshiba,Ultrabook,12-14,Full HD 1920x1080,Intel,2.4-3.0,8-16,512GB SSD,Intel,1400-2100
-546,Lenovo,Notebook,12-14,Full HD 1920x1080,Intel,2.4-3.0,2-4,500GB HDD,Intel,700-1400
-342,HP,Notebook,14-16,IPS Panel Full HD 1920x1080,Intel,1.6-2.4,4-8,1TB HDD,Nvidia,700-1400
-491,Toshiba,Ultrabook,12-14,Full HD / Touchscreen 1920x1080,Intel,2.4-3.0,16-64,512GB SSD,Intel,2100-3000
-325,Lenovo,Notebook,12-14,1366x768,Intel,0.8-1.6,2-4,32GB Flash Storage,Intel,0-700
-287,Asus,Ultrabook,14-16,Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Nvidia,700-1400
-379,Acer,Notebook,14-16,Full HD 1920x1080,Intel,2.4-3.0,4-8,1TB HDD,Nvidia,700-1400
-1259,MSI,Gaming,14-16,Full HD 1920x1080,Intel,2.4-3.0,4-8,128GB SSD +  1TB HDD,Nvidia,700-1400
-1072,HP,Ultrabook,12-14,Full HD 1920x1080,Intel,1.6-2.4,4-8,256GB SSD,Intel,700-1400
-1204,Asus,Gaming,14-16,Full HD 1920x1080,Intel,2.4-3.0,4-8,1TB HDD,Nvidia,700-1400
-1,Apple,Ultrabook,12-14,1440x900,Intel,1.6-2.4,4-8,128GB Flash Storage,Intel,700-1400
-664,MSI,Gaming,16-20,Full HD 1920x1080,Intel,2.4-3.0,4-8,128GB SSD +  1TB HDD,Nvidia,1400-2100
-1048,Lenovo,Gaming,16-20,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,8-16,128GB SSD +  1TB HDD,Nvidia,2100-3000
-1060,HP,Notebook,14-16,Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Intel,700-1400
-1052,Dell,2 in 1 Convertible,14-16,IPS Panel Full HD / Touchscreen 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Intel,700-1400
-1042,Toshiba,Notebook,14-16,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,8-16,256GB SSD,Nvidia,1400-2100
-208,Dell,Ultrabook,12-14,Full HD 1920x1080,Intel,1.6-2.4,4-8,256GB SSD,Intel,1400-2100
-1125,Lenovo,2 in 1 Convertible,12-14,IPS Panel Full HD / Touchscreen 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Intel,1400-2100
-696,Lenovo,2 in 1 Convertible,12-14,Full HD / Touchscreen 1920x1080,Intel,2.4-3.0,8-16,512GB SSD,Intel,1400-2100
-511,Acer,Notebook,14-16,Full HD 1920x1080,Intel,2.4-3.0,2-4,500GB HDD,Nvidia,0-700
-809,Lenovo,Notebook,14-16,Full HD 1920x1080,Intel,2.4-3.0,2-4,1TB HDD,Nvidia,0-700
-583,Dell,Notebook,14-16,Full HD 1920x1080,Intel,2.4-3.0,8-16,256GB SSD,Nvidia,1400-2100
-877,Xiaomi,Ultrabook,12-14,IPS Panel Full HD 1920x1080,Intel,1.6-2.4,4-8,256GB SSD,Nvidia,700-1400
-382,Asus,Gaming,14-16,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,4-8,128GB SSD +  1TB HDD,Nvidia,1400-2100
-784,Lenovo,Ultrabook,12-14,Full HD 1920x1080,Intel,2.4-3.0,8-16,512GB SSD,Intel,2100-3000
-184,Xiaomi,Notebook,14-16,IPS Panel Full HD 1920x1080,Intel,0.8-1.6,4-8,256GB SSD,Nvidia,700-1400
-383,Lenovo,Notebook,12-14,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Nvidia,700-1400
-544,Asus,Notebook,14-16,1366x768,AMD,1.6-2.4,2-4,500GB HDD,AMD,0-700
-1113,HP,Ultrabook,12-14,Full HD 1920x1080,Intel,2.4-3.0,4-8,512GB SSD,Intel,1400-2100
-26,Apple,Ultrabook,12-14,1440x900,Intel,0.8-1.6,4-8,128GB Flash Storage,Intel,700-1400
-966,Dell,Notebook,14-16,1366x768,Intel,2.4-3.0,2-4,500GB HDD,Intel,700-1400
-363,HP,Notebook,14-16,Full HD 1920x1080,Intel,2.4-3.0,4-8,1TB HDD,Intel,0-700
-276,Dell,Notebook,16-20,Full HD 1920x1080,Intel,1.6-2.4,4-8,128GB SSD +  1TB HDD,AMD,700-1400
-394,Dell,Notebook,14-16,Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,AMD,700-1400
-641,HP,Notebook,16-20,1600x900,AMD,2.4-3.0,4-8,1TB HDD,AMD,0-700
-874,Samsung,Ultrabook,14-16,Full HD 1920x1080,Intel,2.4-3.0,8-16,256GB SSD,Nvidia,1400-2100
-775,Asus,2 in 1 Convertible,14-16,Full HD / Touchscreen 1920x1080,Intel,2.4-3.0,8-16,2TB HDD,Nvidia,700-1400
-388,Dell,Workstation,14-16,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Nvidia,2100-3000
-481,Dell,Notebook,14-16,1366x768,Intel,1.6-2.4,2-4,1TB HDD,Intel,0-700
-1271,Lenovo,2 in 1 Convertible,12-14,IPS Panel Quad HD+ / Touchscreen 3200x1800,Intel,2.4-3.0,8-16,512GB SSD,Intel,1400-2100
-1093,Dell,Ultrabook,12-14,IPS Panel Full HD 1920x1080,Intel,0.8-1.6,2-4,256GB SSD,AMD,700-1400
-1263,Acer,Notebook,14-16,1366x768,Intel,0.8-1.6,2-4,500GB HDD,Intel,0-700
-216,Lenovo,Notebook,16-20,1600x900,Intel,2.4-3.0,4-8,1TB HDD,Nvidia,0-700
-721,HP,2 in 1 Convertible,12-14,IPS Panel Touchscreen 1366x768,Intel,2.4-3.0,4-8,256GB SSD,Intel,700-1400
-963,Toshiba,Ultrabook,12-14,Full HD / Touchscreen 1920x1080,Intel,2.4-3.0,4-8,512GB SSD,Intel,1400-2100
-36,Acer,Notebook,14-16,1366x768,Intel,2.4-3.0,2-4,1TB HDD,Intel,0-700
-862,Toshiba,Notebook,12-14,Full HD 1920x1080,Intel,2.4-3.0,2-4,128GB SSD,Intel,700-1400
-873,Lenovo,Notebook,12-14,IPS Panel Full HD 1920x1080,Intel,1.6-2.4,2-4,180GB SSD,Intel,700-1400
-646,Acer,Ultrabook,12-14,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Intel,700-1400
-828,Acer,Netbook,10-12,IPS Panel 1366x768,Intel,0.8-1.6,2-4,32GB Flash Storage,Intel,0-700
-951,Dell,Ultrabook,12-14,Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Intel,1400-2100
-399,Lenovo,Ultrabook,12-14,IPS Panel 2560x1440,Intel,2.4-3.0,8-16,1TB SSD,Intel,2100-3000
-789,Dell,Gaming,14-16,Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Nvidia,700-1400
-337,HP,Notebook,14-16,Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Intel,700-1400
-93,Dell,Gaming,14-16,Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Nvidia,700-1400
-395,HP,Ultrabook,14-16,Full HD 1920x1080,AMD,2.4-3.0,2-4,256GB SSD,AMD,0-700
-436,HP,Notebook,14-16,1366x768,Intel,0.8-1.6,2-4,500GB HDD,Intel,0-700
-715,Lenovo,Notebook,12-14,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Nvidia,700-1400
-488,Lenovo,Ultrabook,12-14,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,8-16,512GB SSD,Intel,1400-2100
-467,Dell,Notebook,14-16,Full HD 1920x1080,Intel,0.8-1.6,4-8,2TB HDD,AMD,700-1400
-876,Asus,Notebook,14-16,1366x768,Intel,0.8-1.6,2-4,1TB HDD,Intel,0-700
-1179,HP,Notebook,14-16,1366x768,Intel,1.6-2.4,2-4,500GB HDD,Intel,0-700
-165,MSI,Gaming,14-16,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,8-16,256GB SSD +  1TB HDD,Nvidia,1400-2100
-19,Dell,Ultrabook,12-14,IPS Panel Full HD / Touchscreen 1920x1080,Intel,0.8-1.6,4-8,128GB SSD,Intel,700-1400
-260,Dell,Notebook,16-20,Full HD 1920x1080,Intel,1.6-2.4,4-8,128GB SSD +  1TB HDD,AMD,700-1400
-591,Lenovo,Notebook,14-16,Full HD 1920x1080,AMD,3.0-4.0,8-16,512GB SSD,AMD,700-1400
-892,Samsung,Ultrabook,14-16,Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Intel,1400-2100
-683,HP,Notebook,16-20,IPS Panel Full HD 1920x1080,Intel,1.6-2.4,2-4,256GB SSD,AMD,0-700
-1037,Toshiba,Ultrabook,12-14,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Intel,1400-2100
-67,HP,Notebook,12-14,1366x768,Intel,0.8-1.6,2-4,32GB SSD,Intel,0-700
-393,MSI,Gaming,16-20,Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Nvidia,700-1400
-819,Dell,Notebook,12-14,1366x768,Intel,1.6-2.4,2-4,500GB HDD,Intel,700-1400
-984,Toshiba,Notebook,12-14,1366x768,Intel,1.6-2.4,2-4,500GB HDD,Intel,700-1400
-1106,MSI,Gaming,16-20,Full HD 1920x1080,Intel,2.4-3.0,4-8,128GB SSD +  1TB HDD,Nvidia,1400-2100
-1166,Lenovo,Notebook,14-16,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Intel,700-1400
-305,Lenovo,Notebook,14-16,1366x768,Intel,0.8-1.6,2-4,1TB HDD,Intel,0-700
-599,Dell,Workstation,14-16,Full HD / Touchscreen 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Nvidia,1400-2100
-348,Asus,2 in 1 Convertible,10-12,Touchscreen 1366x768,Intel,0.8-1.6,2-4,32GB Flash Storage,Intel,0-700
-991,HP,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.4,2-4,128GB SSD +  1TB HDD,AMD,0-700
-852,Dell,Notebook,16-20,Full HD 1920x1080,Intel,2.4-3.0,4-8,1TB HDD,AMD,700-1400
-655,Toshiba,Notebook,14-16,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,4-8,500GB HDD,Intel,700-1400
-176,Acer,Notebook,14-16,1366x768,Intel,1.6-2.4,2-4,128GB SSD,Intel,0-700
-186,Dell,Notebook,14-16,4K Ultra HD / Touchscreen 3840x2160,Intel,2.4-3.0,8-16,512GB SSD,Nvidia,2100-3000
-842,HP,Notebook,16-20,1600x900,Intel,2.4-3.0,4-8,1TB HDD,Nvidia,700-1400
-1273,HP,Notebook,14-16,1366x768,Intel,2.4-3.0,4-8,1TB HDD,AMD,700-1400
-691,Lenovo,Notebook,12-14,Full HD 1920x1080,Intel,2.4-3.0,2-4,256GB SSD,Intel,0-700
-404,MSI,Gaming,16-20,Full HD 1920x1080,Intel,2.4-3.0,8-16,256GB SSD +  1TB HDD,Nvidia,2100-3000
-645,Lenovo,Notebook,12-14,1366x768,Intel,0.8-1.6,2-4,32GB Flash Storage,Intel,0-700
-213,Lenovo,Notebook,14-16,Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Intel,0-700
-411,Lenovo,Ultrabook,12-14,IPS Panel Full HD 2560x1440,Intel,2.4-3.0,4-8,512GB SSD,Nvidia,1400-2100
-41,Dell,Gaming,14-16,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,8-16,256GB SSD +  1TB HDD,Nvidia,1400-2100
-638,Lenovo,2 in 1 Convertible,12-14,IPS Panel Full HD / Touchscreen 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Intel,1400-2100
-574,Lenovo,Notebook,14-16,Full HD 1920x1080,Intel,0.8-1.6,2-4,500GB HDD,Intel,0-700
-796,Asus,Notebook,12-14,1366x768,Intel,0.8-1.6,2-4,32GB Flash Storage,Intel,0-700
-221,Lenovo,2 in 1 Convertible,12-14,IPS Panel Full HD 1920x1080,Intel,0.8-1.6,4-8,256GB SSD,Intel,700-1400
-1115,Dell,Ultrabook,12-14,Full HD 1920x1080,Intel,1.6-2.4,4-8,256GB SSD,Intel,700-1400
-354,Toshiba,Notebook,14-16,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,8-16,512GB SSD,Nvidia,1400-2100
-1267,Dell,Notebook,14-16,1366x768,Intel,2.4-3.0,4-8,1TB HDD,AMD,700-1400
-1175,Asus,Notebook,12-14,Full HD 1920x1080,Intel,1.6-2.4,2-4,256GB SSD,Intel,700-1400
-63,Asus,Notebook,12-14,Full HD 1920x1080,Intel,0.8-1.6,4-8,256GB SSD,Intel,700-1400
-58,MSI,Gaming,16-20,Full HD 1920x1080,Intel,2.4-3.0,8-16,256GB SSD +  2TB HDD,Nvidia,2100-3000
-330,MSI,Gaming,16-20,Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD +  1TB HDD,Nvidia,700-1400
-505,Lenovo,Notebook,12-14,Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Intel,700-1400
-507,Acer,Notebook,14-16,IPS Panel Full HD 1920x1080,Intel,0.8-1.6,2-4,1TB HDD,Nvidia,0-700
-1161,MSI,Gaming,12-14,Full HD 1920x1080,Intel,2.4-3.0,8-16,256GB SSD +  1TB HDD,Nvidia,1400-2100
-602,Acer,Notebook,12-14,Full HD 1920x1080,Intel,0.8-1.6,2-4,32GB Flash Storage,Intel,0-700
-884,Dell,Notebook,14-16,1366x768,Intel,0.8-1.6,2-4,500GB HDD,Intel,0-700
-180,Dell,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.4,8-16,256GB SSD +  2TB HDD,AMD,700-1400
-224,Dell,Gaming,16-20,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,8-16,256GB SSD +  1TB HDD,Nvidia,2100-3000
-525,Lenovo,Notebook,12-14,Full HD 1920x1080,Intel,1.6-2.4,4-8,256GB SSD,Intel,700-1400
-369,HP,Ultrabook,12-14,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Intel,1400-2100
-981,Toshiba,Notebook,12-14,Full HD 1920x1080,Intel,1.6-2.4,2-4,128GB SSD,Intel,700-1400
-1261,Asus,Ultrabook,12-14,IPS Panel Full HD 1920x1080,Intel,0.8-1.6,4-8,512GB SSD,Intel,700-1400
-143,Toshiba,Notebook,14-16,1366x768,Intel,1.6-2.4,2-4,500GB HDD,Intel,0-700
-183,Toshiba,Notebook,14-16,1366x768,Intel,2.4-3.0,4-8,128GB SSD,Intel,700-1400
-1249,Dell,2 in 1 Convertible,12-14,Quad HD+ / Touchscreen 3200x1800,Intel,0.8-1.6,4-8,256GB SSD,Intel,1400-2100
-649,Lenovo,Ultrabook,12-14,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Intel,1400-2100
-425,Dell,Gaming,14-16,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,4-8,128GB SSD +  1TB HDD,Nvidia,700-1400
-1091,HP,Notebook,14-16,1366x768,Intel,1.6-2.4,2-4,1TB HDD,Intel,0-700
-1155,HP,Notebook,14-16,Full HD 1920x1080,AMD,2.4-3.0,2-4,256GB SSD,AMD,0-700
-1025,HP,Ultrabook,12-14,1366x768,Intel,2.4-3.0,2-4,256GB SSD,Intel,1400-2100
-1251,HP,Notebook,14-16,1366x768,AMD,2.4-3.0,2-4,500GB HDD,AMD,0-700
-202,Acer,Notebook,14-16,Full HD 1920x1080,Intel,2.4-3.0,4-8,1TB HDD,Nvidia,700-1400
-983,Fujitsu,Notebook,14-16,1366x768,Intel,1.6-2.4,2-4,256GB SSD,Intel,0-700
-15,Apple,Ultrabook,12-14,IPS Panel Retina Display 2560x1600,Intel,1.6-2.4,4-8,256GB SSD,Intel,1400-2100
-783,Lenovo,Notebook,14-16,1366x768,Intel,0.8-1.6,4-8,1TB HDD,Intel,0-700
-970,Dell,2 in 1 Convertible,12-14,Quad HD+ / Touchscreen 3200x1800,Intel,0.8-1.6,8-16,512GB SSD,Intel,1400-2100
-166,Acer,Notebook,14-16,1366x768,Intel,0.8-1.6,2-4,1TB HDD,Intel,0-700
-147,Asus,Notebook,14-16,Full HD 1920x1080,Intel,0.8-1.6,2-4,1TB HDD,Intel,0-700
-347,Dell,Ultrabook,14-16,Full HD 1920x1080,Intel,1.6-2.4,8-16,512GB SSD +  256GB SSD,Intel,1400-2100
-1274,Asus,Notebook,14-16,1366x768,Intel,0.8-1.6,2-4,500GB HDD,Intel,0-700
-536,Dell,Notebook,14-16,Full HD 1920x1080,Intel,0.8-1.6,4-8,256GB SSD,AMD,700-1400
-1011,HP,Ultrabook,12-14,Full HD 1920x1080,Intel,2.4-3.0,2-4,500GB HDD,Intel,1400-2100
-864,Dell,Ultrabook,12-14,Quad HD+ / Touchscreen 3200x1800,Intel,2.4-3.0,8-16,512GB SSD,Intel,2100-3000
-959,Acer,2 in 1 Convertible,10-12,IPS Panel Touchscreen 1366x768,Intel,0.8-1.6,2-4,32GB Flash Storage,Intel,0-700
-1026,HP,Notebook,12-14,1366x768,Intel,2.4-3.0,2-4,500GB HDD,Intel,700-1400
-893,Lenovo,Ultrabook,12-14,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Intel,1400-2100
-132,Acer,Ultrabook,12-14,IPS Panel Full HD 1920x1080,Intel,1.6-2.4,4-8,256GB SSD,Intel,700-1400
-146,HP,Ultrabook,12-14,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel,0.8-1.6,4-8,512GB SSD,Intel,1400-2100
-46,Lenovo,Notebook,14-16,1366x768,Intel,1.6-2.4,2-4,128GB SSD,Intel,0-700
-695,Acer,Netbook,10-12,1366x768,Intel,0.8-1.6,2-4,32GB Flash Storage,Intel,0-700
-424,Dell,Gaming,16-20,IPS Panel 2560x1440,Intel,2.4-3.0,8-16,256GB SSD +  1TB HDD,Nvidia,2100-3000
-1129,HP,Gaming,16-20,IPS Panel Full HD 1920x1080,Intel,1.6-2.4,4-8,128GB SSD +  1TB HDD,Nvidia,700-1400
-1128,Lenovo,Gaming,14-16,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,4-8,128GB SSD +  1TB HDD,Nvidia,700-1400
-49,Asus,Notebook,16-20,1366x768,Intel,0.8-1.6,2-4,1TB HDD,Nvidia,0-700
-888,Acer,Netbook,10-12,IPS Panel 1366x768,Intel,0.8-1.6,2-4,32GB Flash Storage,Intel,0-700
-787,Lenovo,Gaming,14-16,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,2-4,1TB HDD,Nvidia,700-1400
-233,Dell,Notebook,12-14,Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Intel,700-1400
-138,Lenovo,Notebook,14-16,Full HD 1920x1080,Intel,2.4-3.0,2-4,1TB HDD,Nvidia,0-700
-760,Lenovo,Gaming,14-16,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,4-8,128GB SSD +  1TB HDD,Nvidia,700-1400
-522,Dell,Notebook,12-14,Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Intel,700-1400
-494,Asus,Gaming,16-20,IPS Panel Full HD / Touchscreen 1920x1080,Intel,2.4-3.0,16-64,256GB SSD +  1TB HDD,Nvidia,700-1400
-1196,Lenovo,Notebook,14-16,1366x768,Intel,1.6-2.4,2-4,1TB HDD,AMD,0-700
-1016,HP,Notebook,14-16,1366x768,Intel,1.6-2.4,2-4,256GB SSD,Intel,700-1400
-476,Dell,Workstation,14-16,Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Nvidia,2100-3000
-292,HP,Notebook,16-20,1600x900,Intel,1.6-2.4,4-8,1TB HDD,Intel,0-700
-593,Samsung,Notebook,14-16,Full HD 1920x1080,Intel,2.4-3.0,8-16,128GB SSD +  1TB HDD,Nvidia,1400-2100
-800,HP,Workstation,14-16,Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Nvidia,1400-2100
-315,Dell,Notebook,14-16,Full HD 1920x1080,Intel,0.8-1.6,4-8,128GB SSD +  1TB HDD,AMD,700-1400
-1029,HP,Notebook,16-20,Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Nvidia,700-1400
-1177,Lenovo,Gaming,14-16,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,8-16,512GB SSD,Nvidia,700-1400
-1268,HP,Netbook,10-12,1366x768,Intel,0.8-1.6,,32GB Flash Storage,Intel,0-700
-834,Lenovo,Notebook,12-14,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Intel,1400-2100
-311,Dell,Ultrabook,12-14,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel,1.6-2.4,8-16,1TB SSD,Intel,2100-3000
-650,Asus,Gaming,16-20,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,16-64,512GB SSD,Nvidia,2100-3000
-265,Dell,2 in 1 Convertible,14-16,Full HD / Touchscreen 1920x1080,Intel,0.8-1.6,4-8,256GB SSD,Intel,700-1400
-466,Acer,Notebook,14-16,1366x768,Intel,1.6-2.4,2-4,500GB HDD,Nvidia,0-700
-720,Lenovo,Ultrabook,12-14,IPS Panel Quad HD+ 2560x1440,Intel,2.4-3.0,4-8,512GB SSD,Intel,1400-2100
-559,Dell,Notebook,14-16,1366x768,Intel,1.6-2.4,2-4,1TB HDD,AMD,0-700
-869,Dell,Workstation,14-16,Full HD 1920x1080,Intel,2.4-3.0,4-8,1TB HDD,Nvidia,1400-2100
-136,Lenovo,Notebook,14-16,1366x768,Intel,0.8-1.6,2-4,1TB HDD,Intel,0-700
-985,Dell,Notebook,14-16,1366x768,Intel,2.4-3.0,2-4,500GB HDD,AMD,0-700
-1116,Lenovo,Gaming,16-20,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,8-16,256GB SSD +  1.0TB Hybrid,Nvidia,2100-3000
-460,Acer,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.4,2-4,1TB HDD,Nvidia,0-700
-1184,HP,Notebook,14-16,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,4-8,1TB HDD,Nvidia,700-1400
-716,Dell,Notebook,14-16,Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Intel,700-1400
-636,Dell,Ultrabook,12-14,Quad HD+ / Touchscreen 3200x1800,Intel,0.8-1.6,4-8,256GB SSD,Intel,1400-2100
-608,Lenovo,2 in 1 Convertible,14-16,IPS Panel Full HD / Touchscreen 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Intel,700-1400
-437,Google,Ultrabook,12-14,Touchscreen 2400x1600,Intel,0.8-1.6,8-16,512GB SSD,Intel,2100-3000
-341,Lenovo,Notebook,14-16,Full HD 1920x1080,AMD,3.0-4.0,8-16,2TB HDD,AMD,700-1400
-177,MSI,Gaming,16-20,Full HD 1920x1080,Intel,2.4-3.0,16-64,512GB SSD +  1TB HDD,Nvidia,2100-3000
-307,Toshiba,Notebook,14-16,IPS Panel Full HD 1920x1080,Intel,2.4-3.0,4-8,256GB SSD,Nvidia,700-1400
-12,Apple,Ultrabook,14-16,IPS Panel Retina Display 2880x1800,Intel,2.4-3.0,8-16,256GB SSD,AMD,2100-3000
-907,Acer,Notebook,14-16,IPS Panel Full HD 1920x1080,Intel,0.8-1.6,2-4,16GB Flash Storage,Intel,0-700
-157,Asus,2 in 1 Convertible,12-14,Full HD / Touchscreen 1920x1080,Intel,0.8-1.6,4-8,256GB SSD,Intel,700-1400
-555,Asus,Notebook,14-16,1366x768,Intel,0.8-1.6,2-4,500GB HDD,Intel,0-700
-856,Asus,Notebook,14-16,1366x768,Intel,0.8-1.6,2-4,1TB HDD,Intel,0-700
-707,Lenovo,Workstation,14-16,Full HD 1920x1080,Intel,2.4-3.0,8-16,512GB SSD,Nvidia,1400-2100
+Company,TypeName,Inches,ScreenResolution,CPU_Company,CPU_Frequency (GHz),RAM (GB),Memory,GPU_Company,Price (Euro)
+Asus,Gaming,16-20,Full HD 1920x1080,Intel,2.8-4.0,8-16,256GB SSD,Nvidia,2000-3000
+HP,Notebook,14-16,1366x768,Intel,1.6-2.8,2-8,1TB HDD,Intel,0-1000
+Dell,Ultrabook,10-14,Full HD 1920x1080,Intel,1.6-2.8,2-8,512GB SSD,Intel,1000-2000
+Lenovo,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,1TB HDD,AMD,0-1000
+HP,Notebook,10-14,Full HD 1920x1080,Intel,0.8-1.6,2-8,1TB HDD,Intel,0-1000
+Asus,Gaming,14-16,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,8-16,256GB SSD +  1TB HDD,Nvidia,1000-2000
+HP,Ultrabook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,0-1000
+Lenovo,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,500GB HDD,Intel,0-1000
+Acer,Notebook,10-14,Full HD 1920x1080,Intel,0.8-1.6,2-8,32GB Flash Storage,Intel,0-1000
+Dell,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,AMD,0-1000
+Dell,Ultrabook,10-14,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Dell,Notebook,10-14,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Dell,Notebook,10-14,1366x768,Intel,1.6-2.8,2-8,500GB HDD,Intel,0-1000
+HP,Notebook,10-14,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,0-1000
+Asus,Notebook,14-16,1366x768,Intel,0.8-1.6,2-8,500GB HDD,Intel,0-1000
+HP,Notebook,10-14,1366x768,Intel,1.6-2.8,2-8,500GB HDD,Intel,1000-2000
+Lenovo,Notebook,10-14,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,8-16,512GB SSD,Intel,1000-2000
+Dell,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,1TB HDD,Intel,0-1000
+Apple,Ultrabook,10-14,1366x768,Intel,0.8-1.6,2-8,256GB Flash Storage,Intel,0-1000
+HP,Notebook,14-16,1366x768,Intel,1.6-2.8,2-8,1TB HDD,Intel,0-1000
+MSI,Gaming,14-16,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,2-8,1TB HDD,Nvidia,0-1000
+Asus,Gaming,16-20,Full HD 1920x1080,AMD,2.8-4.0,2-8,256GB SSD +  1TB HDD,AMD,1000-2000
+Asus,2 in 1 Convertible,10-14,Full HD 1920x1080,Intel,0.8-1.6,2-8,64GB Flash Storage,Intel,1000-2000
+HP,Ultrabook,10-14,IPS Panel Full HD / Touchscreen 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Lenovo,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,1TB HDD,Nvidia,0-1000
+Asus,Ultrabook,10-14,Full HD 1920x1080,Intel,1.6-2.8,8-16,512GB SSD,Nvidia,1000-2000
+Lenovo,Notebook,14-16,Full HD 1920x1080,AMD,2.8-4.0,2-8,256GB SSD,AMD,0-1000
+Dell,Notebook,10-14,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Nvidia,1000-2000
+HP,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Lenovo,Notebook,10-14,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Lenovo,Notebook,14-16,1366x768,AMD,1.6-2.8,2-8,500GB HDD,AMD,0-1000
+Toshiba,Notebook,14-16,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,8-16,256GB SSD,Nvidia,1000-2000
+MSI,Gaming,16-20,Full HD 1920x1080,Intel,1.6-2.8,2-8,128GB SSD +  1TB HDD,Nvidia,1000-2000
+Dell,Gaming,14-16,4K Ultra HD 3840x2160,Intel,1.6-2.8,8-16,256GB SSD +  1TB HDD,Nvidia,1000-2000
+Dell,Gaming,16-20,IPS Panel 2560x1440,Intel,2.8-4.0,8-16,256GB SSD +  1TB HDD,Nvidia,2000-3000
+Dell,2 in 1 Convertible,14-16,IPS Panel Full HD / Touchscreen 1920x1080,Intel,1.6-2.8,2-8,1TB HDD,Intel,0-1000
+HP,Notebook,10-14,Full HD 1920x1080,Intel,0.8-1.6,2-8,512GB SSD,Intel,0-1000
+MSI,Gaming,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,128GB SSD +  1TB HDD,Nvidia,1000-2000
+Toshiba,Notebook,10-14,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Lenovo,Notebook,10-14,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,0-1000
+MSI,Gaming,16-20,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Nvidia,1000-2000
+HP,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,500GB HDD,Intel,0-1000
+Lenovo,Notebook,14-16,1366x768,Intel,1.6-2.8,2-8,128GB SSD,Intel,0-1000
+Lenovo,Notebook,10-14,1366x768,Intel,0.8-1.6,2-8,32GB Flash Storage,Intel,0-1000
+MSI,Gaming,16-20,Full HD 1920x1080,Intel,1.6-2.8,8-16,512GB SSD +  1TB HDD,Nvidia,2000-3000
+HP,Notebook,14-16,1366x768,Intel,1.6-2.8,2-8,128GB SSD,Intel,0-1000
+Lenovo,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,0-1000
+Toshiba,Notebook,14-16,1366x768,Intel,1.6-2.8,2-8,128GB SSD,Intel,0-1000
+HP,2 in 1 Convertible,10-14,Full HD / Touchscreen 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,2000-3000
+MSI,Gaming,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Nvidia,1000-2000
+HP,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,500GB HDD,Intel,0-1000
+HP,Notebook,16-20,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,2-8,2TB HDD,AMD,0-1000
+Lenovo,Notebook,14-16,1366x768,Intel,1.6-2.8,2-8,500GB HDD,Nvidia,0-1000
+Toshiba,Notebook,10-14,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,0-1000
+Dell,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,8-16,256GB SSD,AMD,0-1000
+Dell,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,1TB HDD,Intel,0-1000
+Dell,Notebook,14-16,Full HD 1920x1080,Intel,0.8-1.6,2-8,128GB SSD +  1TB HDD,AMD,0-1000
+Lenovo,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,1TB HDD,Nvidia,0-1000
+Acer,Notebook,16-20,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,2-8,1TB HDD,Nvidia,0-1000
+Asus,Notebook,14-16,1366x768,AMD,2.8-4.0,2-8,1TB HDD,AMD,0-1000
+Acer,Notebook,14-16,1366x768,Intel,0.8-1.6,2-8,16GB SSD,Intel,0-1000
+MSI,Gaming,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,128GB SSD +  1TB HDD,Nvidia,1000-2000
+Asus,Ultrabook,10-14,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Nvidia,1000-2000
+HP,Notebook,16-20,Full HD 1920x1080,Intel,1.6-2.8,2-8,1TB HDD,Nvidia,1000-2000
+HP,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,0-1000
+Asus,Gaming,16-20,Full HD 1920x1080,Intel,1.6-2.8,8-16,256GB SSD +  1TB HDD,Nvidia,1000-2000
+HP,Notebook,10-14,Full HD 1920x1080,Intel,1.6-2.8,8-16,512GB SSD,Intel,1000-2000
+HP,Ultrabook,10-14,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Lenovo,Notebook,14-16,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,2-8,512GB SSD,Intel,1000-2000
+Dell,Notebook,14-16,1366x768,Intel,1.6-2.8,2-8,1TB HDD,AMD,0-1000
+Dell,Ultrabook,10-14,Touchscreen 2560x1440,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Lenovo,Notebook,14-16,Full HD 1920x1080,AMD,1.6-2.8,2-8,1TB HDD,AMD,0-1000
+Dell,2 in 1 Convertible,10-14,Full HD / Touchscreen 1920x1080,Intel,0.8-1.6,2-8,1TB HDD,Intel,0-1000
+MSI,Gaming,14-16,Full HD 1920x1080,Intel,1.6-2.8,8-16,128GB SSD +  1TB HDD,Nvidia,2000-3000
+Toshiba,Ultrabook,10-14,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Lenovo,Notebook,14-16,1366x768,Intel,0.8-1.6,2-8,1TB HDD,Intel,0-1000
+Dell,Ultrabook,10-14,1366x768,Intel,1.6-2.8,2-8,128GB SSD,Intel,1000-2000
+HP,Notebook,10-14,1366x768,Intel,0.8-1.6,2-8,32GB Flash Storage,Intel,0-1000
+HP,Notebook,10-14,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Acer,Notebook,14-16,1366x768,AMD,1.6-2.8,2-8,1TB HDD,AMD,0-1000
+Asus,Gaming,16-20,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD +  1TB HDD,Nvidia,1000-2000
+LG,Ultrabook,10-14,IPS Panel Full HD / Touchscreen 1920x1080,Intel,1.6-2.8,2-8,512GB SSD,Intel,1000-2000
+Lenovo,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,128GB SSD,Intel,0-1000
+Lenovo,2 in 1 Convertible,14-16,IPS Panel Full HD / Touchscreen 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+HP,Notebook,14-16,1366x768,Intel,1.6-2.8,2-8,500GB HDD,Intel,0-1000
+Dell,Notebook,14-16,1366x768,Intel,1.6-2.8,2-8,1TB HDD,Intel,0-1000
+Lenovo,2 in 1 Convertible,10-14,IPS Panel Full HD / Touchscreen 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Dell,2 in 1 Convertible,10-14,Full HD / Touchscreen 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,0-1000
+Asus,Gaming,16-20,Full HD 1920x1080,Intel,1.6-2.8,2-8,1TB HDD,Nvidia,1000-2000
+HP,Workstation,14-16,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Nvidia,2000-3000
+Dell,Notebook,14-16,1366x768,Intel,1.6-2.8,2-8,500GB HDD,Intel,1000-2000
+Dell,Ultrabook,14-16,Full HD 1920x1080,Intel,1.6-2.8,8-16,512GB SSD +  256GB SSD,Intel,1000-2000
+Lenovo,Gaming,14-16,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,8-16,512GB SSD,Nvidia,1000-2000
+HP,Notebook,14-16,Full HD 1920x1080,Intel,0.8-1.6,2-8,256GB SSD,AMD,0-1000
+HP,Gaming,16-20,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,2-8,128GB SSD +  1TB HDD,Nvidia,1000-2000
+HP,Notebook,16-20,IPS Panel Full HD 1920x1080,AMD,1.6-2.8,2-8,2TB HDD,AMD,0-1000
+Lenovo,Ultrabook,10-14,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Nvidia,1000-2000
+Toshiba,Notebook,14-16,1366x768,Intel,1.6-2.8,2-8,500GB HDD,Intel,0-1000
+Dell,2 in 1 Convertible,10-14,Quad HD+ / Touchscreen 3200x1800,Intel,0.8-1.6,8-16,512GB SSD,Intel,1000-2000
+Dell,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Dell,Notebook,10-14,1366x768,Intel,1.6-2.8,2-8,500GB HDD,Intel,0-1000
+HP,Notebook,10-14,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,0-1000
+HP,Notebook,14-16,1366x768,AMD,1.6-2.8,2-8,500GB HDD,AMD,0-1000
+Dell,Notebook,14-16,1366x768,Intel,1.6-2.8,2-8,500GB HDD,Intel,0-1000
+HP,Notebook,14-16,1366x768,AMD,1.6-2.8,2-8,500GB HDD,AMD,0-1000
+HP,Gaming,16-20,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,8-16,256GB SSD +  1TB HDD,Nvidia,1000-2000
+Lenovo,Notebook,14-16,1366x768,Intel,1.6-2.8,2-8,1TB HDD,Intel,0-1000
+Dell,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,AMD,0-1000
+Lenovo,Notebook,14-16,Touchscreen 1366x768,Intel,1.6-2.8,8-16,1TB HDD,Intel,0-1000
+Lenovo,Ultrabook,10-14,2560x1440,Intel,1.6-2.8,16-64,512GB SSD,Intel,2000-3000
+HP,Gaming,14-16,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,2-8,1TB HDD,Nvidia,0-1000
+Asus,Notebook,14-16,1366x768,Intel,1.6-2.8,2-8,256GB SSD,Intel,0-1000
+Dell,Notebook,10-14,Full HD / Touchscreen 1920x1080,Intel,1.6-2.8,2-8,1TB HDD,Intel,0-1000
+Toshiba,Ultrabook,10-14,1366x768,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Dell,Ultrabook,10-14,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel,1.6-2.8,8-16,1TB SSD,Intel,2000-3000
+Asus,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,128GB HDD,Intel,0-1000
+HP,Notebook,16-20,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Nvidia,1000-2000
+HP,Ultrabook,10-14,2560x1440,Intel,1.6-2.8,2-8,256GB SSD,Intel,2000-3000
+Dell,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Nvidia,1000-2000
+Lenovo,2 in 1 Convertible,10-14,Touchscreen 2560x1440,Intel,1.6-2.8,2-8,256GB SSD,Intel,2000-3000
+HP,Netbook,10-14,Full HD 1920x1080,Intel,0.8-1.6,2-8,512GB SSD,Intel,1000-2000
+HP,Workstation,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Nvidia,1000-2000
+Fujitsu,Notebook,14-16,1366x768,Intel,1.6-2.8,2-8,256GB SSD,Intel,0-1000
+HP,Notebook,10-14,1366x768,Intel,0.8-1.6,2-8,2TB HDD,Intel,0-1000
+Asus,Gaming,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Nvidia,0-1000
+Asus,2 in 1 Convertible,14-16,Full HD / Touchscreen 1920x1080,Intel,1.6-2.8,8-16,512GB SSD +  2TB HDD,Nvidia,1000-2000
+Toshiba,Notebook,10-14,Full HD 1920x1080,Intel,1.6-2.8,2-8,128GB SSD,Intel,1000-2000
+Dell,Notebook,14-16,1366x768,Intel,0.8-1.6,2-8,500GB HDD,Intel,0-1000
+Samsung,Ultrabook,10-14,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Lenovo,Notebook,16-20,1600x900,Intel,1.6-2.8,2-8,1TB HDD,Intel,0-1000
+Samsung,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,8-16,128GB SSD +  1TB HDD,Nvidia,1000-2000
+Asus,2 in 1 Convertible,10-14,Full HD / Touchscreen 1920x1080,Intel,0.8-1.6,2-8,256GB SSD,Intel,1000-2000
+Asus,Gaming,14-16,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,8-16,128GB SSD +  1TB HDD,Nvidia,1000-2000
+Asus,Notebook,16-20,1600x900,Intel,0.8-1.6,2-8,1TB HDD,Nvidia,0-1000
+Dell,Notebook,10-14,1366x768,Intel,1.6-2.8,2-8,500GB HDD,Intel,0-1000
+HP,Ultrabook,10-14,1366x768,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Dell,Gaming,14-16,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,8-16,128GB SSD +  1TB HDD,Nvidia,1000-2000
+Dell,2 in 1 Convertible,10-14,Full HD / Touchscreen 1920x1080,Intel,1.6-2.8,8-16,512GB SSD,Intel,1000-2000
+Dell,Notebook,14-16,Full HD / Touchscreen 1920x1080,Intel,1.6-2.8,8-16,1TB HDD,AMD,0-1000
+Asus,Gaming,14-16,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD +  1TB HDD,Nvidia,0-1000
+Dell,Notebook,16-20,Full HD 1920x1080,Intel,1.6-2.8,2-8,128GB SSD +  1TB HDD,AMD,1000-2000
+HP,Ultrabook,10-14,1366x768,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Microsoft,Ultrabook,10-14,Touchscreen 2256x1504,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Dell,Notebook,10-14,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Acer,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Nvidia,0-1000
+HP,Notebook,16-20,Full HD 1920x1080,AMD,1.6-2.8,2-8,500GB HDD,AMD,0-1000
+Lenovo,Notebook,16-20,1600x900,Intel,1.6-2.8,2-8,1TB HDD,Nvidia,0-1000
+HP,Notebook,10-14,1366x768,Intel,1.6-2.8,2-8,500GB HDD,Intel,1000-2000
+Dell,Notebook,10-14,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+HP,Gaming,14-16,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,2-8,128GB SSD +  1TB HDD,Nvidia,1000-2000
+Toshiba,Notebook,10-14,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Dell,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,AMD,0-1000
+Lenovo,Notebook,14-16,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,2-8,1TB HDD,Nvidia,0-1000
+Dell,Ultrabook,10-14,IPS Panel Full HD 1920x1080,Intel,0.8-1.6,2-8,256GB SSD,Intel,1000-2000
+Lenovo,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,1TB HDD,Intel,0-1000
+Dell,Ultrabook,14-16,IPS Panel Full HD 1920x1080,Intel,0.8-1.6,2-8,128GB SSD +  1TB HDD,Nvidia,1000-2000
+Xiaomi,Notebook,14-16,IPS Panel Full HD 1920x1080,Intel,0.8-1.6,2-8,256GB SSD,Nvidia,1000-2000
+Lenovo,Gaming,14-16,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,2-8,1TB HDD,Nvidia,1000-2000
+Lenovo,Gaming,14-16,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,2-8,128GB SSD +  1TB HDD,Nvidia,1000-2000
+Lenovo,2 in 1 Convertible,10-14,IPS Panel Full HD / Touchscreen 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Dell,Ultrabook,14-16,IPS Panel Full HD 1920x1080,Intel,0.8-1.6,2-8,256GB SSD,Intel,1000-2000
+Lenovo,Ultrabook,10-14,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Toshiba,Notebook,10-14,1366x768,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+HP,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Asus,Ultrabook,10-14,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Asus,Gaming,16-20,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,16-64,256GB SSD +  256GB SSD,Nvidia,1000-2000
+Lenovo,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,500GB HDD,Intel,0-1000
+Toshiba,Notebook,14-16,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,8-16,256GB SSD,Nvidia,1000-2000
+Lenovo,Notebook,14-16,1366x768,Intel,1.6-2.8,2-8,128GB SSD,Intel,0-1000
+Lenovo,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,1TB HDD,Intel,0-1000
+Dell,Gaming,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,1.0TB Hybrid,Nvidia,0-1000
+Asus,Netbook,10-14,1366x768,Intel,0.8-1.6,2-8,32GB Flash Storage,Intel,0-1000
+Dell,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,8-16,256GB SSD +  2TB HDD,AMD,1000-2000
+Dell,2 in 1 Convertible,10-14,Touchscreen 1366x768,Intel,0.8-1.6,2-8,128GB SSD,Intel,0-1000
+Lenovo,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,0-1000
+Dell,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Acer,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,1TB HDD,Nvidia,0-1000
+Lenovo,Gaming,14-16,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,8-16,256GB SSD +  1TB HDD,Nvidia,1000-2000
+HP,Workstation,14-16,Full HD 1920x1080,Intel,1.6-2.8,8-16,256GB SSD,Nvidia,2000-3000
+Asus,Notebook,14-16,1366x768,Intel,0.8-1.6,2-8,1TB HDD,Intel,0-1000
+HP,Notebook,14-16,1366x768,Intel,1.6-2.8,2-8,500GB HDD,Intel,0-1000
+Lenovo,Notebook,14-16,Full HD 1920x1080,AMD,1.6-2.8,2-8,128GB SSD,AMD,0-1000
+Acer,Notebook,10-14,1366x768,Intel,0.8-1.6,2-8,32GB Flash Storage,Intel,0-1000
+Dell,2 in 1 Convertible,14-16,IPS Panel Full HD / Touchscreen 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Lenovo,Gaming,14-16,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,2-8,128GB SSD +  1TB HDD,Nvidia,0-1000
+Lenovo,Ultrabook,10-14,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Dell,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,1TB HDD,AMD,0-1000
+Samsung,Ultrabook,14-16,Full HD 1920x1080,Intel,1.6-2.8,8-16,256GB SSD,Nvidia,1000-2000
+HP,Notebook,10-14,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+HP,Workstation,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Nvidia,2000-3000
+HP,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,AMD,1000-2000
+HP,Workstation,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,AMD,1000-2000
+Toshiba,Notebook,14-16,1366x768,Intel,1.6-2.8,2-8,500GB HDD,Intel,0-1000
+Dell,Notebook,14-16,1366x768,Intel,1.6-2.8,2-8,1TB HDD,AMD,0-1000
+Lenovo,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,128GB SSD,Nvidia,0-1000
+Acer,Notebook,16-20,IPS Panel Full HD 1920x1080,Intel,0.8-1.6,2-8,256GB SSD,Nvidia,0-1000
+HP,2 in 1 Convertible,10-14,IPS Panel Full HD / Touchscreen 1920x1080,Intel,1.6-2.8,2-8,128GB SSD,Nvidia,0-1000
+HP,Notebook,14-16,1366x768,Intel,1.6-2.8,2-8,500GB HDD,AMD,0-1000
+Lenovo,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,128GB SSD +  1TB HDD,Nvidia,0-1000
+HP,Notebook,10-14,IPS Panel Full HD 1920x1080,Intel,0.8-1.6,2-8,500GB HDD,Intel,0-1000
+Asus,Notebook,10-14,1366x768,Intel,0.8-1.6,2-8,32GB Flash Storage,Intel,0-1000
+Lenovo,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Nvidia,0-1000
+Asus,Gaming,14-16,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,2-8,128GB SSD +  1TB HDD,Nvidia,1000-2000
+MSI,Gaming,10-14,Full HD 1920x1080,Intel,1.6-2.8,8-16,256GB SSD +  1TB HDD,Nvidia,1000-2000
+Toshiba,Notebook,14-16,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,8-16,512GB SSD,Nvidia,1000-2000
+Dell,Workstation,14-16,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,8-16,256GB SSD,Nvidia,1000-2000
+Toshiba,Ultrabook,10-14,Full HD / Touchscreen 1920x1080,Intel,1.6-2.8,2-8,512GB SSD,Intel,1000-2000
+Dell,2 in 1 Convertible,10-14,IPS Panel Full HD / Touchscreen 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+HP,Notebook,10-14,1366x768,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Lenovo,Notebook,14-16,1366x768,Intel,1.6-2.8,2-8,1TB HDD,Intel,0-1000
+Lenovo,Ultrabook,10-14,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,8-16,256GB SSD,Intel,1000-2000
+Lenovo,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,1TB HDD,Nvidia,0-1000
+Lenovo,Notebook,14-16,Full HD 1920x1080,Intel,0.8-1.6,2-8,128GB SSD,Intel,0-1000
+HP,Ultrabook,10-14,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Google,Ultrabook,10-14,Touchscreen 2400x1600,Intel,0.8-1.6,2-8,256GB SSD,Intel,1000-2000
+HP,Notebook,16-20,1600x900,Intel,1.6-2.8,2-8,256GB SSD,Intel,0-1000
+Vero,Notebook,10-14,1366x768,Intel,0.8-1.6,2-8,32GB Flash Storage,Intel,0-1000
+Acer,Notebook,14-16,IPS Panel Full HD / Touchscreen 1920x1080,Intel,1.6-2.8,8-16,1TB HDD,Intel,0-1000
+Toshiba,Ultrabook,10-14,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,8-16,512GB SSD,Nvidia,1000-2000
+Acer,Gaming,14-16,Full HD 1920x1080,Intel,1.6-2.8,8-16,256GB SSD,Nvidia,1000-2000
+HP,Notebook,10-14,Full HD 1920x1080,Intel,0.8-1.6,2-8,256GB SSD,Intel,0-1000
+Lenovo,2 in 1 Convertible,10-14,IPS Panel Full HD / Touchscreen 1920x1080,Intel,1.6-2.8,2-8,512GB SSD,Intel,1000-2000
+Lenovo,Notebook,14-16,1366x768,Intel,1.6-2.8,2-8,500GB HDD,Intel,1000-2000
+Dell,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,1TB HDD,Intel,0-1000
+Dell,2 in 1 Convertible,10-14,Full HD / Touchscreen 1920x1080,Intel,0.8-1.6,2-8,256GB SSD,Intel,0-1000
+HP,Notebook,10-14,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,0-1000
+HP,Workstation,16-20,Full HD 1920x1080,Intel,1.6-2.8,2-8,500GB HDD,Nvidia,1000-2000
+MSI,Gaming,16-20,Full HD 1920x1080,Intel,1.6-2.8,2-8,128GB SSD +  1TB HDD,Nvidia,1000-2000
+Dell,2 in 1 Convertible,10-14,IPS Panel Full HD / Touchscreen 1920x1080,Intel,1.6-2.8,2-8,1TB HDD,Intel,0-1000
+Dell,Ultrabook,10-14,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,AMD,0-1000
+Asus,Notebook,14-16,1366x768,Intel,0.8-1.6,2-8,1TB HDD,Intel,0-1000
+Acer,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,1TB HDD,Nvidia,0-1000
+Lenovo,Workstation,14-16,IPS Panel 4K Ultra HD 3840x2160,Intel,1.6-2.8,8-16,512GB SSD,Nvidia,2000-3000
+Lenovo,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,128GB SSD +  1TB HDD,AMD,0-1000
+Acer,Ultrabook,10-14,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,0-1000
+Dell,2 in 1 Convertible,10-14,Full HD / Touchscreen 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,0-1000
+Asus,Gaming,16-20,Full HD 1920x1080,AMD,2.8-4.0,8-16,256GB SSD +  1TB HDD,AMD,1000-2000
+Lenovo,Gaming,14-16,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,2-8,128GB SSD +  1TB HDD,Nvidia,1000-2000
+Asus,Ultrabook,14-16,Full HD 1920x1080,Intel,1.6-2.8,8-16,256GB SSD +  1TB HDD,Nvidia,1000-2000
+Dell,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,8-16,2TB HDD,AMD,0-1000
+Dell,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,128GB SSD +  2TB HDD,AMD,0-1000
+Dell,Gaming,14-16,Full HD 1920x1080,Intel,1.6-2.8,8-16,256GB SSD +  1TB HDD,Nvidia,2000-3000
+Asus,Notebook,14-16,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Nvidia,0-1000
+Lenovo,Gaming,14-16,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,8-16,256GB SSD +  1TB HDD,Nvidia,1000-2000
+Acer,2 in 1 Convertible,10-14,IPS Panel Touchscreen 1366x768,Intel,0.8-1.6,2-8,32GB Flash Storage,Intel,0-1000
+Lenovo,Gaming,16-20,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,8-16,256GB SSD +  1.0TB Hybrid,Nvidia,2000-3000
+HP,Ultrabook,10-14,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+HP,Notebook,16-20,Full HD 1920x1080,Intel,0.8-1.6,2-8,128GB SSD +  1TB HDD,Nvidia,0-1000
+Lenovo,2 in 1 Convertible,10-14,IPS Panel Full HD / Touchscreen 1920x1080,Intel,1.6-2.8,2-8,512GB SSD,Intel,1000-2000
+Acer,Netbook,10-14,1366x768,Intel,0.8-1.6,2-8,32GB Flash Storage,Intel,0-1000
+Samsung,Ultrabook,10-14,Full HD 1920x1080,Intel,1.6-2.8,8-16,256GB SSD,Intel,1000-2000
+Acer,Notebook,14-16,1366x768,AMD,1.6-2.8,2-8,1TB HDD,AMD,0-1000
+Lenovo,Ultrabook,10-14,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Acer,Notebook,14-16,IPS Panel Full HD 1920x1080,Intel,0.8-1.6,2-8,16GB Flash Storage,Intel,0-1000
+Lenovo,Ultrabook,10-14,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Asus,Gaming,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,128GB SSD +  1TB HDD,Nvidia,1000-2000
+Dell,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,128GB SSD +  1TB HDD,Nvidia,1000-2000
+Acer,Notebook,14-16,1366x768,Intel,1.6-2.8,2-8,500GB HDD,Intel,0-1000
+Acer,Gaming,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,1TB HDD,Nvidia,0-1000
+Lenovo,Notebook,14-16,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,2-8,1TB HDD,Nvidia,0-1000
+HP,Workstation,14-16,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,2-8,8GB SSD,Nvidia,2000-3000
+Acer,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Nvidia,0-1000
+Asus,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Nvidia,0-1000
+Asus,Gaming,16-20,IPS Panel Full HD / Touchscreen 1920x1080,Intel,1.6-2.8,16-64,256GB SSD +  1TB HDD,Nvidia,1000-2000
+HP,Notebook,14-16,Full HD 1920x1080,Intel,0.8-1.6,2-8,256GB SSD,Nvidia,0-1000
+HP,Notebook,14-16,1366x768,Intel,1.6-2.8,2-8,500GB HDD,Intel,0-1000
+Lenovo,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,0-1000
+Lenovo,Notebook,16-20,1600x900,Intel,1.6-2.8,2-8,1TB HDD,Nvidia,0-1000
+Lenovo,2 in 1 Convertible,10-14,IPS Panel Full HD / Touchscreen 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Lenovo,2 in 1 Convertible,10-14,IPS Panel Full HD / Touchscreen 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Dell,Gaming,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,128GB SSD +  1TB HDD,Nvidia,1000-2000
+HP,Workstation,16-20,1600x900,Intel,1.6-2.8,2-8,500GB HDD,Nvidia,1000-2000
+Lenovo,Notebook,14-16,1366x768,Intel,1.6-2.8,2-8,500GB HDD,Intel,0-1000
+MSI,Gaming,16-20,Full HD 1920x1080,Intel,1.6-2.8,8-16,256GB SSD +  1TB HDD,Nvidia,1000-2000
+HP,Workstation,14-16,IPS Panel Full HD 1920x1080,Intel,2.8-4.0,2-8,512GB SSD,Intel,1000-2000
+HP,Ultrabook,10-14,Quad HD+ / Touchscreen 3200x1800,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Asus,Gaming,16-20,Full HD 1920x1080,Intel,1.6-2.8,2-8,128GB SSD +  1TB HDD,Nvidia,0-1000
+Dell,Notebook,14-16,1366x768,Intel,1.6-2.8,2-8,128GB SSD,Intel,0-1000
+Acer,Gaming,16-20,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,8-16,128GB SSD +  1TB HDD,Nvidia,1000-2000
+Asus,Notebook,14-16,1366x768,Intel,1.6-2.8,2-8,1TB HDD,Nvidia,0-1000
+HP,Notebook,14-16,1366x768,AMD,0.8-1.6,2-8,500GB HDD,AMD,0-1000
+HP,Notebook,14-16,1366x768,Intel,0.8-1.6,2-8,500GB HDD,Intel,0-1000
+Mediacom,Notebook,10-14,Full HD 1920x1080,Intel,0.8-1.6,2-8,32GB Flash Storage,Intel,0-1000
+Asus,2 in 1 Convertible,14-16,4K Ultra HD / Touchscreen 3840x2160,Intel,1.6-2.8,8-16,512GB SSD +  2TB HDD,Nvidia,1000-2000
+Acer,Notebook,14-16,1366x768,Intel,0.8-1.6,2-8,16GB SSD,Intel,0-1000
+Lenovo,Notebook,10-14,IPS Panel Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Acer,Notebook,14-16,1366x768,Intel,1.6-2.8,2-8,1TB HDD,Intel,0-1000
+Dell,Workstation,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,1TB HDD,Nvidia,1000-2000
+Dell,Gaming,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Nvidia,1000-2000
+Razer,Gaming,10-14,Full HD 1920x1080,Intel,1.6-2.8,8-16,256GB SSD,Nvidia,2000-3000
+Lenovo,Notebook,16-20,IPS Panel 4K Ultra HD 3840x2160,Intel,1.6-2.8,8-16,512GB SSD,Nvidia,2000-3000
+Lenovo,2 in 1 Convertible,10-14,IPS Panel Full HD / Touchscreen 1920x1080,Intel,0.8-1.6,2-8,256GB SSD,Intel,1000-2000
+Dell,Notebook,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,AMD,0-1000
+Asus,Gaming,14-16,Full HD 1920x1080,Intel,1.6-2.8,2-8,128GB SSD +  1TB HDD,Nvidia,1000-2000
+Dell,Ultrabook,10-14,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Acer,Notebook,14-16,1366x768,AMD,2.8-4.0,2-8,500GB HDD,AMD,0-1000
+Toshiba,Notebook,14-16,1366x768,Intel,1.6-2.8,2-8,500GB HDD,Intel,0-1000
+HP,Ultrabook,10-14,Full HD 1920x1080,Intel,1.6-2.8,2-8,256GB SSD,Intel,1000-2000
+Asus,2 in 1 Convertible,10-14,Touchscreen 1366x768,Intel,0.8-1.6,2-8,32GB Flash Storage,Intel,0-1000
+HP,Notebook,14-16,Full HD 1920x1080,AMD,0.8-1.6,2-8,500GB HDD,AMD,0-1000
