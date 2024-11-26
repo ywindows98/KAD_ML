@@ -27,13 +27,13 @@ def get_combinations(dataframe, length=1):
 
         # init records with None values so combinations will maintail structure of records from df
         for values in value_combinations:
-            print(values)
+            # print(values)
             record = [None] * len(columns)
             for idx, value in zip(col_indices, values):
                 record[idx] = value
             all_records.append(record)
 
-    print(all_records)
+    # print(all_records)
 
     # create a dataframe of generated combinations
     result_df = pd.DataFrame(all_records, columns=columns)

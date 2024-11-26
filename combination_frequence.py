@@ -1,33 +1,20 @@
 from itertools import combinations
 import pandas as pd
 import numpy as np
-
 from combinations import get_combinations
 
 
+pd.set_option('display.max_columns', None)
+pd.set_option('display.max_colwidth', None)
 
-# Example usage
-data = {
-    'A': [1, 1, 3],
-    'B': ['x', 'y', 'z'],
-    'C': ['t', 'k', 'k']
-}
+shrooms = pd.read_csv('dataset/sample.csv')
 
 
-df = pd.DataFrame(data)
-print(df)
-# Get combinations of length 3
-combinations = get_combinations(dataframe = df, length=2)
+# leaving only attributes
+shrooms_attributes = shrooms.copy()
+shrooms_attributes = shrooms_attributes.drop('class', axis=1)
 
+combinations = get_combinations(dataframe=shrooms_attributes, length=3)
+print(f"Generated {len(combinations)} combinations")
 print(combinations)
-
-
-# pd.set_option('display.max_columns', None)
-# pd.set_option('display.max_colwidth', None)
-#
-# lprice = pd.read_csv('dataset/lprice_sample.csv')
-#
-# lsmall = lprice[:20]
-# print(lsmall)
-
 
