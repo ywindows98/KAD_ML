@@ -1,5 +1,6 @@
 import pandas as pd
 import itertools
+import numpy as np
 
 def get_combinations(dataframe, length=1):
     # get unique values for each attribute
@@ -38,3 +39,35 @@ def get_combinations(dataframe, length=1):
     # create a dataframe of generated combinations
     result_df = pd.DataFrame(all_records, columns=columns)
     return result_df
+
+
+def count_combinations_per_class(combinations, dataframe_attributes, dataframe_classes):
+    dataframe_attributes = np.array(dataframe_attributes)
+    dataframe_classes = np.array(dataframe_classes)
+    combinations = np.array(combinations)
+
+    edible = []
+    poisonous = []
+    # for each combination
+    for i in range(combinations.shape[0]):
+        edible.append(0)
+        poisonous.append(0)
+
+        # for each record id df
+        for j in range(dataframe_attributes.shape[0]):
+            isIn = True
+            # check if combination is fully in the record
+            for k in range(combinations.shape[1]):
+                if combinations[i][k] != None:
+                    if combinations[i][k] != dataframe_attributes[j][k]:
+                        isIn = False
+                        break
+
+            # increase number of occurrences
+            if isIn:
+                if dataframe_classes[j] == 'Edible':
+                    edible[i ]+=1
+                else:
+                    poisonous[i]+=1
+
+    return edible, poisonous
