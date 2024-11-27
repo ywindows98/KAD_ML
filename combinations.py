@@ -71,3 +71,16 @@ def count_combinations_per_class(combinations, dataframe_attributes, dataframe_c
                     poisonous[i]+=1
 
     return edible, poisonous
+
+
+def get_reliable_combinations(combinations, combination_frequences, rcr, n_records):
+    reliable_indexes = [index for index, frequence in enumerate(combination_frequences) if frequence >= rcr * n_records]
+    # print(reliable_indexes)
+    combinations = np.array(combinations)
+    reliable_combinations = []
+    for i in reliable_indexes:
+        reliable_combinations.append(combinations[i])
+
+    # print(reliable_combinations)
+
+    return reliable_indexes, reliable_combinations
