@@ -97,3 +97,5 @@ def get_reliable_combinations_stat(combination_frequences, edible_counts, poison
             iv = poisonous_counts[i] / combination_frequences[i]
             if iv >= riv:
                 reliable_combinations_stat.append([i, 'Poisonous', iv])
+
+    return reliable_combinations_stat
