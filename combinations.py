@@ -85,3 +85,15 @@ def get_reliable_combinations(combinations, combination_frequences, rcr, n_recor
 
     return reliable_indexes, reliable_combinations
 
+def get_reliable_combinations_stat(combination_frequences, edible_counts, poisonous_counts, reliable_indexes, riv):
+    # combination index - class - implication validity
+    reliable_combinations_stat = []
+    for i in reliable_indexes:
+        if edible_counts[i] >= poisonous_counts[i]:
+            iv = edible_counts[i] / combination_frequences[i]
+            if iv >= riv:
+                reliable_combinations_stat.append([i, 'Edible', iv])
+        else:
+            iv = poisonous_counts[i] / combination_frequences[i]
+            if iv >= riv:
+                reliable_combinations_stat.append([i, 'Poisonous', iv])

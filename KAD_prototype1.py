@@ -3,6 +3,7 @@ import numpy as np
 from combinations import get_combinations
 from combinations import count_combinations_per_class
 from combinations import get_reliable_combinations
+from combinations import get_reliable_combinations_stat
 
 
 pd.set_option('display.max_columns', None)
@@ -43,18 +44,8 @@ reliable_indexes, reliable_combinations = get_reliable_combinations(combinations
 
 # required implication validity
 riv = 0.7
-# combination index - class - implication validity
-reliable_combinations_stat = []
-for i in reliable_indexes:
-    if edible_counts[i] >= poisonous_counts[i]:
-        iv = edible_counts[i] / combination_frequences[i]
-        if iv >= riv:
-            reliable_combinations_stat.append([i, 'Edible', iv])
-    else:
-        iv = poisonous_counts[i] / combination_frequences[i]
-        if iv >= riv:
-            reliable_combinations_stat.append([i, 'Poisonous', iv])
 
+reliable_combinations_stat = get_reliable_combinations_stat(combination_frequences, edible_counts, poisonous_counts, reliable_indexes, riv)
 print(reliable_combinations_stat)
 
 
