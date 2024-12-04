@@ -4,57 +4,41 @@ from combinations import get_combinations
 from combinations import count_combinations_per_class
 from combinations import get_reliable_combinations
 from combinations import get_reliable_combinations_stat
-
-
-pd.set_option('display.max_columns', None)
-pd.set_option('display.max_colwidth', None)
+from combinations import elems_comp
 
 shrooms = pd.read_csv('dataset/sample.csv')
+attributes = shrooms[shrooms.columns.drop('class')]
+classes = shrooms[['class']]
 
+REQUIRED_COMBINATION_RELIABILITY = 0.2
+REQUIRED_IMPLICATION_VALIDITY = 0.7
+N_RECORDS = len(shrooms)
+N_ATTRIBUTES = len(attributes.columns)
 
-# leaving only attributes
-shrooms_attributes = shrooms.copy()
-shrooms_attributes = shrooms_attributes.drop('class', axis=1)
+rules = []
+for l in range(1, N_ATTRIBUTES+1):
+        
+    combinations = get_combinations(dataframe=attributes, length=l)
 
-# leaving only classes
-shrooms_classes = shrooms['class']
+    edible_counts, poisonous_counts = count_combinations_per_class(combinations, attributes, classes)
 
-# generating possible combinations of attributes
-combinations = get_combinations(dataframe=shrooms_attributes, length=3)
-print(f"Generated {len(combinations)} combinations")
-# print(combinations)
+    combination_frequences = np.add(edible_counts, poisonous_counts)
 
-n_records = len(shrooms)
+    reliable_indexes, reliable_combinations = get_reliable_combinations(combinations, combination_frequences, \
+                                                                        REQUIRED_COMBINATION_RELIABILITY, N_RECORDS)
 
-# counting frequences of combination for two classes
-edible_counts, poisonous_counts = count_combinations_per_class(combinations, shrooms_attributes, shrooms_classes)
-combination_frequences = np.add(edible_counts, poisonous_counts)
-# print(edible_counts)
-# print(poisonous_counts)
-# print(combination_frequences)
+    reliable_combinations_stat = get_reliable_combinations_stat(combination_frequences, edible_counts, poisonous_counts, \
+                                                                reliable_indexes, REQUIRED_IMPLICATION_VALIDITY)
 
-# poziadovana fundovanost kombinacie
-# requested combination reliability
-rcr = 0.2
+    reliable_comb_list = [(list(reliable_combinations[reliable_indexes.index(i)]), cl, iv) for i, cl, iv in reliable_combinations_stat]
 
-# finding reliable combinations based on the rcr
-reliable_indexes, reliable_combinations = get_reliable_combinations(combinations, combination_frequences, rcr,
-n_records)
-
-# print(reliable_combinations)
-
-# required implication validity
-riv = 0.7
-
-# combination index - class - iv, the implication validity
-reliable_combinations_stat = get_reliable_combinations_stat(combination_frequences, edible_counts, poisonous_counts,
-reliable_indexes, riv)
-print(reliable_combinations_stat)
-
-
-# TODO:
-# compute weights for each implication in BZ where left side is a subcombination of the current combination
-# apply GLOB on those weights to get weight Wz of the combination
-# check the diff between calculated combination implication validity and the weight Wz from GLOB is true
-# then add implication to the BZ ?
-# else don`t
+    for elem, cl, iv in reliable_comb_list:
+        ivs = []
+        for rule in rules:
+            if elems_comp(elem, rule[0]) and cl == rule[1]:
+                ivs.append(iv)
+                
+        if not ivs:
+            rules.append((elem, cl, iv))
+        elif  iv >= np.mean(ivs):
+            rules.append((elem, cl, iv))

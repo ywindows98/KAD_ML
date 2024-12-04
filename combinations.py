@@ -99,3 +99,6 @@ def get_reliable_combinations_stat(combination_frequences, edible_counts, poison
                 reliable_combinations_stat.append([i, 'Poisonous', iv])
 
     return reliable_combinations_stat
+
+# argument wise comparison between two rules, only those arguments that both rules contain are compared
+elems_comp = lambda a, b: all(x == y if x is not None and y is not None else True for x, y in zip(a, b, strict=True))
