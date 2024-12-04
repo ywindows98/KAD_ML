@@ -1,3 +1,6 @@
+from tqdm import tqdm
+import time
+
 import pandas as pd
 import numpy as np
 from combinations import get_combinations
@@ -16,7 +19,7 @@ N_RECORDS = len(shrooms)
 N_ATTRIBUTES = len(attributes.columns)
 
 rules = []
-for l in range(1, N_ATTRIBUTES+1):
+for l in tqdm(range(1, N_ATTRIBUTES+1), desc="Processing combinations"):
         
     combinations = get_combinations(dataframe=attributes, length=l)
 
@@ -36,9 +39,12 @@ for l in range(1, N_ATTRIBUTES+1):
         ivs = []
         for rule in rules:
             if elems_comp(elem, rule[0]) and cl == rule[1]:
-                ivs.append(iv)
+                ivs.append(rule[2])
                 
         if not ivs:
             rules.append((elem, cl, iv))
         elif  iv >= np.mean(ivs):
             rules.append((elem, cl, iv))
+
+
+# print(rules)
