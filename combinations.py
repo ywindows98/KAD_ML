@@ -65,7 +65,7 @@ def count_combinations_per_class(combinations, dataframe_attributes, dataframe_c
 
             # increase number of occurrences
             if isIn:
-                if dataframe_classes[j] == 'Edible':
+                if dataframe_classes[j] == 'e':
                     edible[i ]+=1
                 else:
                     poisonous[i]+=1
@@ -92,11 +92,11 @@ def get_reliable_combinations_stat(combination_frequences, edible_counts, poison
         if edible_counts[i] >= poisonous_counts[i]:
             iv = edible_counts[i] / combination_frequences[i]
             if iv >= riv:
-                reliable_combinations_stat.append([i, 'Edible', iv])
+                reliable_combinations_stat.append([i, 'e', iv])
         else:
             iv = poisonous_counts[i] / combination_frequences[i]
             if iv >= riv:
-                reliable_combinations_stat.append([i, 'Poisonous', iv])
+                reliable_combinations_stat.append([i, 'p', iv])
 
     return reliable_combinations_stat
 
