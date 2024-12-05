@@ -14,7 +14,7 @@ class KAD:
         self.attributes = attributes
         self.classes = classes
         self.REQUIRED_COMBINATION_RELIABILITY = 0.2
-        self.REQUIRED_IMPLICATION_VALIDITY = 0.7
+        self.REQUIRED_IMPLICATION_VALIDITY = 0.65
         self.N_RECORDS = len(attributes)
         self.N_ATTRIBUTES = len(attributes.columns)
 
