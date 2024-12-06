@@ -6,7 +6,7 @@ from sklearn.metrics import classification_report, confusion_matrix
 from combinations import elems_comp
 
 
-def print_rule(rule, columns):
+def format_rule(rule, columns):
     attributes = rule[0]
     target_class = rule[1]
     rule_string = "Rule: IF"
@@ -21,7 +21,7 @@ def print_rule(rule, columns):
 
     rule_string += f" THEN CLASS:{target_class}"
 
-    print(rule_string)
+    return rule_string
 
 shrooms = pd.read_csv('dataset/mushrooms.csv', usecols=['class', 'cap-shape','cap-surface', 'cap-color', 'gill-size', 'stalk-shape', 'veil-type', 'ring-number', 'population'])
 shrooms_sample = shrooms.groupby('class').sample(n=500, random_state=123)
@@ -38,11 +38,11 @@ kad.process()
 
 print(f"{'='*40}")
 print("RULES:")
+kad.rules.sort(key=lambda x: x[-1], reverse=True)
 for rule in kad.rules:
-    print_rule(rule, df_columns)
+    print(format_rule(rule, df_columns))
 
 y_pred = []
-kad.rules.sort(key=lambda x: x[-1], reverse=True)
 for elem in np.array(X_test):
     for rule in kad.rules:
         if elems_comp(elem, rule[0]):
@@ -55,3 +55,24 @@ print("CONFUSION MATRIX:")
 print(confusion_matrix(y_test[:n], y_pred))
 print("\nCLASSIFICATION REPORT:")
 print(classification_report(y_test[:n], y_pred))
+
+print(f"{'='*40}")
+print("INPUT YOUR OWN RECORD:")
+while input("Enter 'q' to quit: ").strip() != 'q':
+    user_input = []
+    for column in df_columns:
+        value = input(f"Enter value for attribute '{column}': ").strip()
+        if not value:
+            value = None
+        user_input.append(value)
+
+    if any(user_input):
+        for rule in kad.rules:
+            if elems_comp(user_input, rule[0]):
+                print(f'By the {format_rule(rule, df_columns)}')
+                print(f"The predicted class is: {rule[1]}")
+                break
+        else:
+            print("No matching rule found.")
+    else:
+        print("No matching rule found.")
