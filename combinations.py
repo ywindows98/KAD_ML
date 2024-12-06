@@ -67,8 +67,8 @@ def count_combinations_per_class(combinations, dataframe_attributes, dataframe_c
     return class_counts
 
 
-def get_reliable_combinations(combinations, combination_frequences, rcr, n_records):
-    reliable_indexes = [index for index, frequence in enumerate(combination_frequences) if frequence >= rcr * n_records]
+def get_reliable_combinations(combinations, combination_frequencies, rcr, n_records):
+    reliable_indexes = [index for index, frequence in enumerate(combination_frequencies) if frequence >= rcr * n_records]
     # print(reliable_indexes)
     combinations = np.array(combinations)
     reliable_combinations = []
@@ -79,11 +79,11 @@ def get_reliable_combinations(combinations, combination_frequences, rcr, n_recor
 
     return reliable_indexes, reliable_combinations
 
-def get_reliable_combinations_stat(combination_frequences, class_counts, reliable_indexes, riv):
+def get_reliable_combinations_stat(combination_frequencies, class_counts, reliable_indexes, riv):
     reliable_combinations_stat = []
     for i in reliable_indexes:
         cl, count = max([(cl, counts[i]) for cl, counts in class_counts.items()], key=lambda x: x[1])
-        iv = count / combination_frequences[i]
+        iv = count / combination_frequencies[i]
         if iv >= riv:
             reliable_combinations_stat.append([i, cl, iv])
 

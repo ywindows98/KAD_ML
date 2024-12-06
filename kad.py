@@ -22,10 +22,10 @@ class KAD:
         for l in tqdm(range(1, self.N_ATTRIBUTES+1), desc="Processing combinations"):
             combinations = get_combinations(dataframe=self.attributes, length=l)
             class_counts = count_combinations_per_class(combinations, self.attributes, self.classes)
-            combination_frequences = np.add(*list(class_counts.values()))
-            reliable_indexes, reliable_combinations = get_reliable_combinations(combinations, combination_frequences, \
+            combination_frequencies = np.add(*list(class_counts.values()))
+            reliable_indexes, reliable_combinations = get_reliable_combinations(combinations, combination_frequencies, \
                                                                                 self.REQUIRED_COMBINATION_RELIABILITY, self.N_RECORDS)
-            reliable_combinations_stat = get_reliable_combinations_stat(combination_frequences, class_counts, \
+            reliable_combinations_stat = get_reliable_combinations_stat(combination_frequencies, class_counts, \
                                                                         reliable_indexes, self.REQUIRED_IMPLICATION_VALIDITY)
             reliable_comb_list = [(list(reliable_combinations[reliable_indexes.index(i)]), cl, iv) for i, cl, iv in reliable_combinations_stat]
             for elem, cl, iv in reliable_comb_list:
