@@ -43,34 +43,28 @@ def get_combinations(dataframe, length=1):
 
 def count_combinations_per_class(combinations, dataframe_attributes, dataframe_classes):
     dataframe_attributes = np.array(dataframe_attributes)
-    dataframe_classes = np.array(dataframe_classes)
     combinations = np.array(combinations)
 
-    edible = []
-    poisonous = []
-    # for each combination
-    for i in range(combinations.shape[0]):
-        edible.append(0)
-        poisonous.append(0)
+    # Initialize a dictionary to count occurrences for each class
+    class_counts = {cls: [0] * combinations.shape[0] for cls in np.unique(dataframe_classes)}
 
-        # for each record id df
+    # For each combination
+    for i in range(combinations.shape[0]):
+        # For each record in the dataframe
         for j in range(dataframe_attributes.shape[0]):
             isIn = True
-            # check if combination is fully in the record
+            # Check if combination is fully in the record
             for k in range(combinations.shape[1]):
-                if combinations[i][k] != None:
+                if combinations[i][k] is not None:
                     if combinations[i][k] != dataframe_attributes[j][k]:
                         isIn = False
                         break
 
-            # increase number of occurrences
+            # Increase number of occurrences for the corresponding class
             if isIn:
-                if dataframe_classes[j] == 'e':
-                    edible[i ]+=1
-                else:
-                    poisonous[i]+=1
+                class_counts[dataframe_classes.iloc[j, 0]][i] += 1
 
-    return edible, poisonous
+    return class_counts
 
 
 def get_reliable_combinations(combinations, combination_frequences, rcr, n_records):
@@ -85,18 +79,13 @@ def get_reliable_combinations(combinations, combination_frequences, rcr, n_recor
 
     return reliable_indexes, reliable_combinations
 
-def get_reliable_combinations_stat(combination_frequences, edible_counts, poisonous_counts, reliable_indexes, riv):
-    # combination index - class - implication validity
+def get_reliable_combinations_stat(combination_frequences, class_counts, reliable_indexes, riv):
     reliable_combinations_stat = []
     for i in reliable_indexes:
-        if edible_counts[i] >= poisonous_counts[i]:
-            iv = edible_counts[i] / combination_frequences[i]
-            if iv >= riv:
-                reliable_combinations_stat.append([i, 'e', iv])
-        else:
-            iv = poisonous_counts[i] / combination_frequences[i]
-            if iv >= riv:
-                reliable_combinations_stat.append([i, 'p', iv])
+        cl, count = max([(cl, counts[i]) for cl, counts in class_counts.items()], key=lambda x: x[1])
+        iv = count / combination_frequences[i]
+        if iv >= riv:
+            reliable_combinations_stat.append([i, cl, iv])
 
     return reliable_combinations_stat
 
